@@ -1,11 +1,11 @@
 # VPN-setup
 
-# Cybersecurity Internship Task 8: VPN Analysis Report
+# VPN Analysis Report
 
 This report documents the hands-on setup and analysis of a Virtual Private Network (VPN) service as required by the internship task.
 
 ### Objective
-[span_0](start_span)The objective of this task was to understand the role of VPNs in protecting privacy and enabling secure communication.[span_0](end_span)
+(start_span)The objective of this task was to understand the role of VPNs in protecting privacy and enabling secure communication.(end_span)
 
 ---
 
